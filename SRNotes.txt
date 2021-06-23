@@ -1,0 +1,19 @@
+atf 				 is linked to CybercentreCanada/atf 			remote git-repo
+atomic-red-team 	 is linked to redcanaryco/atomic-red-team 		remote git-repo
+Richste7-GH-Sandbox	 is linked to Richste7/atf 	  					remote git-repo own by Richste7-GH-Sandbox
+attack-navigator   	 is linked to mitre-attack/attack-navigator 	remote git-repo
+Invoke-atomicredteam is linked to redcanaryco/invoke-atomicredteam	remote git-repo
+
+					 is not cloned yet CCCS-SRichard/ATF            remote https://github.com/SSSC/ATF git-Repo  
+
+
+codeSandbox 		is not link to a git-Repo
+MyAtomics 			is not link to a git-Repo
+rdrLeakDiag-Tech 	is not link to a git-Repo
+
+Nota bene:In the folder connect with github do
+             cd .git
+			 notepad .\congig
+			 
+			 You will see all the info concernin the connection with remote repos.
+			 
