@@ -1,4 +1,1 @@
-# ATF
-My ATF testing area.
-Remote git repo is  Richste7/ATF
-Owner Richste7 (personal)
+This is my Private Book of knowledge Repo.
