@@ -17,3 +17,4 @@ Nota bene:In the folder connect with github do
 			 
 			 You will see all the info concernin the connection with remote repos.
 			 
+			 ALWAYS ALWAYS do a git Pull first to syncronize.
