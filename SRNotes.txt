@@ -4,7 +4,7 @@ Richste7-GH-Sandbox	 is linked to Richste7/atf 	  					remote git-repo own by Ri
 attack-navigator   	 is linked to mitre-attack/attack-navigator 	remote git-repo
 Invoke-atomicredteam is linked to redcanaryco/invoke-atomicredteam	remote git-repo
 
-					 is not cloned yet CCCS-SRichard/ATF            remote https://github.com/SSSC/ATF git-Repo  
+					 is not cloned yet CCCS-SRichard/ATF            remote https://github.com/CCCS/ATF git-Repo  
 
 
 codeSandbox 		is not link to a git-Repo
